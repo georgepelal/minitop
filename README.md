@@ -1,6 +1,6 @@
 # minitop
 
-minitop is a simple process monitor for Linux, written in C. It displays information about running processes in various formats, similar to the `top` command.
+minitop is a lightweight Linux process monitor written in C. It provides clear views of running processes in basic, detailed, and raw formats, inspired by the `top` command.
 
 ## Features
 
@@ -40,4 +40,3 @@ Run minitop with options:
 - `src/proc_reader.c` / `src/proc_reader.h`: Process info reading and display functions
 
 ## License
-
